@@ -1,5 +1,5 @@
 
-Hi, I’m @ccF_r, a Chinese Boy!    
+Hi, I’m @ccFrui, a Chinese Boy!    
 
 Page Views Count：![Page Views Count](https://badges.toozhao.com/badges/01GDPM4A0VG8KWCN6A3GC96F6F/blue.svg)     
 

@@ -16,7 +16,7 @@ Page Views Count：![Page Views Count](https://badges.toozhao.com/badges/01GDPM4
 ------------
 
 ###  [My luogu](https://www.luogu.com.cn/user/664158)  |  [My CSDN](https://www.luogu.com.cn/paste/u1uvphy0)  |  [My Vijos](https://vijos.org/user/162265)   |  [~~MY github~~](https://github.com/namespase) | [My Hydro](https://hydro.ac/user/9330) | [follow each other🔄](https://www.luogu.com.cn/paste/pf36ix0c) | [Personal homepage](https://ccr666.blog.luogu.org/ge-ren-zhu-ye-shang-post) | [moyu🎮](https://www.luogu.com.cn/paste/0rjuatx9)
-<a href="https://github.com/grm34">
+<a href="https://github.com/ccFrui">
   <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=ccFrui&theme=chartreuse-dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/ccFrui">

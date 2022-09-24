@@ -23,9 +23,4 @@ Page Views Count：![Page Views Count](https://badges.toozhao.com/badges/01GDPM4
   <img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ccFrui&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" />
 </a>
 
-<a href="https://github.com/ccFrui">
-  <img align="center" width="49%" src="./overall.svg" />
-</a>
-<a href="https://github.com/ccFrui">
-  <img align="center" width="49%" src="./achievements.svg" />
-</a>
+

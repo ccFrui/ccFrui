@@ -15,5 +15,4 @@ Page Views Count：![Page Views Count](https://badges.toozhao.com/badges/01GDPM4
 ```
 ------------
 
-### |  [My luogu](https://www.luogu.com.cn/user/664158)  |  [My CSDN](https://www.luogu.com.cn/paste/u1uvphy0)  |  [My Vijos](https://vijos.org/user/162265)   |  [~~MY github~~](https://github.com/namespase)  |  [My Hydro](https://hydro.ac/user/9330) | [ 
-follow to each other🔄 ](https://www.luogu.com.cn/paste/pf36ix0c) | [Personal homepage🆕(Poke)](https://ccr666.blog.luogu.org/ge-ren-zhu-ye-shang-post) | [moyu🎮(Poke)](https://www.luogu.com.cn/paste/0rjuatx9) |
+### |  [My luogu](https://www.luogu.com.cn/user/664158)  |  [My CSDN](https://www.luogu.com.cn/paste/u1uvphy0)  |  [My Vijos](https://vijos.org/user/162265)   |  [~~MY github~~](https://github.com/namespase)  |  [My Hydro](https://hydro.ac/user/9330) | [follow to each other🔄 ](https://www.luogu.com.cn/paste/pf36ix0c) | [Personal homepage🆕(Poke)](https://ccr666.blog.luogu.org/ge-ren-zhu-ye-shang-post) | [moyu🎮(Poke)](https://www.luogu.com.cn/paste/0rjuatx9) |

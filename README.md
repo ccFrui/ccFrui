@@ -3,7 +3,7 @@
 
 Page Views Count：![Page Views Count](https://badges.toozhao.com/badges/01GDPM4A0VG8KWCN6A3GC96F6F/blue.svg)     
 
-#### [![](https://cdn.luogu.com.cn/upload/pic/50915.png)](https://ti.luogu.com.cn/problemset/)[1000 words of self introduction are omitted here](https://www.luogu.com.cn/paste/11cacqf7) || [Personal homepage(Poke)](https://ccr666.blog.luogu.org/ge-ren-zhu-ye-shang-post)
+#### [![](https://cdn.luogu.com.cn/upload/pic/50915.png)](https://www.luogu.com.cn/blog/ccr666/)[1000 words of self introduction are omitted here](https://www.luogu.com.cn/paste/11cacqf7) || [Personal homepage(Poke)](https://ccr666.blog.luogu.org/ge-ren-zhu-ye-shang-post)
 ```
  ______      ______  __  __      ______   _____   ______     
 /\__  _\    /\  _  \/\ \/\ \    /\__  _\ /\  __`\/\__  _\    
